@@ -4,8 +4,11 @@ languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 theme = "mainroad"
-disqusShortname = ""
-googleAnalytics = ""
+
+[services.disqus]
+  shortname = "" # Enable Disqus by entering your Disqus shortname
+[services.googleAnalytics]
+  ID = "" # Enable Google Analytics by entering your tracking ID
 
 [pagination]
   pagerSize = 10
@@ -33,6 +36,7 @@ googleAnalytics = ""
   pager = true
   post_meta = ["date", "categories"]
   mainSections = ["post", "docs"]
+  toc = true
 
 [Params.author]
   name = "OneInvester"
