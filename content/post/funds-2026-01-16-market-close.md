@@ -1,15 +1,14 @@
+
 ---
-title: "盘后复盘: 涨停与强势股基金反查 (2026-01-16)"
-date: 2026-01-16T22:53:19+08:00
+title: "盘后复盘: 涨停与强势股基金反查 (2026-01-17)"
+date: 2026-01-16T17:06:22+08:00
 draft: false
 categories:
   - 复盘
   - 基金
 tags:
-  - 涨停
-  - 强势股
-  - 基金分析
-  - 自动生成
+  - 基金
+  - 盘后
 ---
 
 > 本报告由 Invest-Lab 自动生成。数据基于 2025 年基金报告与今日实时行情。
@@ -18,64 +17,66 @@ tags:
 
 ## 今日涨停股 (Limit Up)
 
-**涉及股票 (58):** 博菲电气, 德邦股份, 新华百货, 五矿发展, 康强电子, 世嘉科技, 动力新科, 森源电气, 恒辉安防, 利柏特, 汉缆股份, 圣晖集成, 新能泰山, 日丰股份, 电科院, 名雕股份, 美埃科技, 福赛科技, 积成电子, 联科科技... (Total 58)
+**涉及股票 (58):** [博菲电气](http://quote.eastmoney.com/sz001255.html)(+10.0%), [德邦股份](http://quote.eastmoney.com/sh603056.html)(+10.01%), [新华百货](http://quote.eastmoney.com/sh600785.html)(+9.99%), [五矿发展](http://quote.eastmoney.com/sh600058.html)(+10.02%), [康强电子](http://quote.eastmoney.com/sz002119.html)(+10.02%), [世嘉科技](http://quote.eastmoney.com/sz002796.html)(+10.0%), [动力新科](http://quote.eastmoney.com/sh600841.html)(+10.03%), [森源电气](http://quote.eastmoney.com/sz002358.html)(+10.07%), [恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%), [利柏特](http://quote.eastmoney.com/sh605167.html)(+10.02%), [汉缆股份](http://quote.eastmoney.com/sz002498.html)(+10.1%), [圣晖集成](http://quote.eastmoney.com/sh603163.html)(+10.0%), [新能泰山](http://quote.eastmoney.com/sz000720.html)(+9.97%), [日丰股份](http://quote.eastmoney.com/sz002953.html)(+10.03%), [电科院](http://quote.eastmoney.com/sz300215.html)(+20.0%), [名雕股份](http://quote.eastmoney.com/sz002830.html)(+10.0%), [美埃科技](http://quote.eastmoney.com/sh688376.html)(+20.0%), [福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%), [积成电子](http://quote.eastmoney.com/sz002339.html)(+9.98%), [联科科技](http://quote.eastmoney.com/sz001207.html)(+10.01%)... (共 58 只)
+
+<!-- more -->
 
 ### 匹配基金 Top 10
 
 | 排名 | 基金 | 命中数 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
-|---|---|---|---|---|---|
-| 1 | [040025] 华安科技动力混合A | 2 | 兆易创新, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 2 | [040025] 华安科技动力混合A | 2 | 兆易创新, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 3 | [024808] 华夏成长动力混合A | 2 | 五洲新春, 新泉股份 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 4 | [024809] 华夏成长动力混合C | 2 | 五洲新春, 新泉股份 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 5 | [024647] 中欧制造升级混合发起A | 2 | 宁波华翔, 新泉股份 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 6 | [024648] 中欧制造升级混合发起C | 2 | 宁波华翔, 新泉股份 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 7 | [000143] 鹏华双债加利债券A | 1 | 圣晖集成 | (2), 航天航空(1), 有色金属(1) | 上证180_(6), 标准普尔(6), 央国企改革(4) |
-| 8 | [018002] 华夏兴夏价值一年持有混合发起式C | 1 | 美埃科技 | (5), 环保行业(1), 工程咨询服务(1) | 专精特新(2), 北京板块(2), 江苏板块(1) |
-| 9 | [025543] 华夏价值精选混合C | 1 | 美埃科技 | (7), 环保行业(1), 工程咨询服务(1) | 专精特新(2), 环保行业(1), 江苏板块(1) |
-| 10 | [040018] 华安香港精选股票(QDII) | 1 | 天岳先进 | (10) | N/A |
+|:---:|---|:---:|---|---|---|
+| 1 | [[018124] 永赢先进制造智选混合发起A](http://fund.eastmoney.com/018124.html) | 5 | [五洲新春](http://quote.eastmoney.com/sh603667.html)(+10.0%)<br>[信质集团](http://quote.eastmoney.com/sz002664.html)(+10.0%)<br>[福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%) | 汽车零部件(14), (7), 专用设备(5) | 新能源车(26), 人形机器人(22), 机器人概念(20) |
+| 2 | [[011241] 东吴双动力混合C](http://fund.eastmoney.com/011241.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[通富微电](http://quote.eastmoney.com/sz002156.html)(+10.0%) | 半导体(6), (2), 汽车零部件(1) | 半导体(6), 百元股(6), 国产芯片(6) |
+| 3 | [[011949] 东吴多策略混合C](http://fund.eastmoney.com/011949.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[通富微电](http://quote.eastmoney.com/sz002156.html)(+10.0%) | 半导体(6), (2), 汽车零部件(1) | 半导体(6), 百元股(6), 国产芯片(6) |
+| 4 | [[580002] 东吴双动力混合A](http://fund.eastmoney.com/580002.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[通富微电](http://quote.eastmoney.com/sz002156.html)(+10.0%) | 半导体(6), (2), 汽车零部件(1) | 半导体(6), 百元股(6), 国产芯片(6) |
+| 5 | [[580009] 东吴多策略混合A](http://fund.eastmoney.com/580009.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[通富微电](http://quote.eastmoney.com/sz002156.html)(+10.0%) | 半导体(6), (2), 汽车零部件(1) | 半导体(6), 百元股(6), 国产芯片(6) |
+| 6 | [[004374] 华泰保兴吉年丰混合发起A](http://fund.eastmoney.com/004374.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%) | 汽车零部件(2), (2), 能源金属(1) | 标准普尔(6), 上证180_(5), 2025中报预增(4) |
+| 7 | [[004375] 华泰保兴吉年丰混合发起C](http://fund.eastmoney.com/004375.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%) | 汽车零部件(2), (2), 能源金属(1) | 标准普尔(6), 上证180_(5), 2025中报预增(4) |
+| 8 | [[006642] 华泰保兴吉年利定开](http://fund.eastmoney.com/006642.html) | 3 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%) | (3), 汽车零部件(2), 能源金属(2) | 标准普尔(5), 上证180_(4), 新能源车(3) |
+| 9 | [[023566] 德邦高端装备混合发起式A](http://fund.eastmoney.com/023566.html) | 2 | [恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%) | 汽车零部件(4), (3), 非金属材料(1) | 新能源车(8), 创业板综(7), 专精特新(6) |
+| 10 | [[011389] 国都聚成混合](http://fund.eastmoney.com/011389.html) | 2 | [圣晖集成](http://quote.eastmoney.com/sh603163.html)(+10.0%)<br>[通富微电](http://quote.eastmoney.com/sz002156.html)(+10.0%) | (2), 光学光电子(1), 工程建设(1) | 上证380(4), 江苏板块(3), 储能(3) |
 
 ---
 
 ## 涨幅 > 8% 强势股
 
-**涉及股票 (128):** N科马, 凯德石英, 华康洁净, 甬矽电子, 美埃科技, 电科院, 金太阳, 福赛科技, 天岳先进, 恒辉安防, 德恩精工, 西高院, 宇邦新材, 佰维存储, 汇成股份, 新风光, 沪宁股份, 侨源股份, 恒工精密, 精测电子... (Total 128)
+**涉及股票 (128):** [N科马](http://quote.eastmoney.com/sh920086.html)(+371.27%), [凯德石英](http://quote.eastmoney.com/sh920179.html)(+20.28%), [华康洁净](http://quote.eastmoney.com/sz301235.html)(+20.01%), [甬矽电子](http://quote.eastmoney.com/sh688362.html)(+20.0%), [美埃科技](http://quote.eastmoney.com/sh688376.html)(+20.0%), [电科院](http://quote.eastmoney.com/sz300215.html)(+20.0%), [金太阳](http://quote.eastmoney.com/sz300606.html)(+20.0%), [福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%), [天岳先进](http://quote.eastmoney.com/sh688234.html)(+20.0%), [恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%), [德恩精工](http://quote.eastmoney.com/sz300780.html)(+19.98%), [西高院](http://quote.eastmoney.com/sh688334.html)(+19.5%), [宇邦新材](http://quote.eastmoney.com/sz301266.html)(+17.2%), [佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%), [汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%), [新风光](http://quote.eastmoney.com/sh688663.html)(+15.55%), [沪宁股份](http://quote.eastmoney.com/sz300669.html)(+15.5%), [侨源股份](http://quote.eastmoney.com/sz301286.html)(+15.47%), [恒工精密](http://quote.eastmoney.com/sz301261.html)(+14.61%), [精测电子](http://quote.eastmoney.com/sz300567.html)(+14.2%)... (共 128 只)
 
 ### 匹配基金 Top 10
 
 | 排名 | 基金 | 命中数 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
-|---|---|---|---|---|---|
-| 1 | [024647] 中欧制造升级混合发起A | 3 | 宁波华翔, 恒帅股份, 新泉股份 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 2 | [024648] 中欧制造升级混合发起C | 3 | 宁波华翔, 恒帅股份, 新泉股份 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 3 | [024808] 华夏成长动力混合A | 3 | 五洲新春, 新泉股份, 峰岹科技 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 4 | [024809] 华夏成长动力混合C | 3 | 五洲新春, 新泉股份, 峰岹科技 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 5 | [040025] 华安科技动力混合A | 3 | 兆易创新, 聚辰股份, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 6 | [040025] 华安科技动力混合A | 3 | 兆易创新, 聚辰股份, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 7 | [000029] 富国宏观策略灵活配置混合A | 2 | 佰维存储, 兆易创新 | 半导体(3), 证券(2), 电网设备(1) | 上证180_(5), 百元股(4), 标准普尔(4) |
-| 8 | [050009] 博时新兴成长混合 | 2 | 震裕科技, 精测电子 | 通信设备(3), 电池(2), (1) | 百元股(8), 创业板综(7), 深成500(7) |
-| 9 | [050009] 博时新兴成长混合 | 2 | 震裕科技, 精测电子 | 通信设备(3), 电池(2), (1) | 百元股(8), 创业板综(7), 深成500(7) |
-| 10 | [024889] 信澳优势行业混合C | 2 | 宁波华翔, 江波龙 | (4), 电子元件(2), 互联网服务(1) | 创业板综(4), 专精特新(4), PCB(3) |
+|:---:|---|:---:|---|---|---|
+| 1 | [[018124] 永赢先进制造智选混合发起A](http://fund.eastmoney.com/018124.html) | 7 | [五洲新春](http://quote.eastmoney.com/sh603667.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[信质集团](http://quote.eastmoney.com/sz002664.html)(+10.0%)<br>[震裕科技](http://quote.eastmoney.com/sz300953.html)(+10.13%)<br>[福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[恒帅股份](http://quote.eastmoney.com/sz300969.html)(+10.64%) | 汽车零部件(14), (7), 专用设备(5) | 新能源车(26), 人形机器人(22), 机器人概念(20) |
+| 2 | [[016530] 鹏华碳中和主题混合A](http://fund.eastmoney.com/016530.html) | 6 | [五洲新春](http://quote.eastmoney.com/sh603667.html)(+10.0%)<br>[金沃股份](http://quote.eastmoney.com/sz300984.html)(+8.9%)<br>[美利信](http://quote.eastmoney.com/sz301307.html)(+9.75%)<br>[震裕科技](http://quote.eastmoney.com/sz300953.html)(+10.13%)<br>[绿的谐波](http://quote.eastmoney.com/sh688017.html)(+9.77%)<br>[恒工精密](http://quote.eastmoney.com/sz301261.html)(+14.61%) | 汽车零部件(11), 通用设备(6), (5) | 人形机器人(19), 专精特新(18), 新能源车(18) |
+| 3 | [[016071] 华安智联混合(LOF)C](http://fund.eastmoney.com/016071.html) | 5 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 消费电子(1) | 半导体(8), 半导体概念(8), 百元股(6) |
+| 4 | [[025208] 永赢先锋半导体智选混合发起A](http://fund.eastmoney.com/025208.html) | 5 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[开普云](http://quote.eastmoney.com/sh688228.html)(+8.76%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(6), (1), 电子元件(1) | 存储芯片(8), 国产芯片(7), 百元股(7) |
+| 5 | [[025209] 永赢先锋半导体智选混合发起C](http://fund.eastmoney.com/025209.html) | 5 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[开普云](http://quote.eastmoney.com/sh688228.html)(+8.76%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(6), (1), 电子元件(1) | 存储芯片(8), 国产芯片(7), 百元股(7) |
+| 6 | [[501073] 华安智联混合(LOF)A](http://fund.eastmoney.com/501073.html) | 5 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 消费电子(1) | 半导体(8), 半导体概念(8), 百元股(6) |
+| 7 | [[005386] 银河睿达灵活配置混合A](http://fund.eastmoney.com/005386.html) | 4 | [甬矽电子](http://quote.eastmoney.com/sh688362.html)(+20.0%)<br>[长电科技](http://quote.eastmoney.com/sh600584.html)(+10.0%)<br>[峰岹科技](http://quote.eastmoney.com/sh688279.html)(+8.11%)<br>[兴福电子](http://quote.eastmoney.com/sh688545.html)(+8.3%) | (6), 半导体(5), 光伏设备(4) | 上证180_(12), 百元股(12), AH股(11) |
+| 8 | [[005387] 银河睿达灵活配置混合C](http://fund.eastmoney.com/005387.html) | 4 | [甬矽电子](http://quote.eastmoney.com/sh688362.html)(+20.0%)<br>[长电科技](http://quote.eastmoney.com/sh600584.html)(+10.0%)<br>[峰岹科技](http://quote.eastmoney.com/sh688279.html)(+8.11%)<br>[兴福电子](http://quote.eastmoney.com/sh688545.html)(+8.3%) | (6), 半导体(5), 光伏设备(4) | 上证180_(12), 百元股(12), AH股(11) |
+| 9 | [[004351] 汇丰晋信珠三角区域发展混合](http://fund.eastmoney.com/004351.html) | 4 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(7), (3) | 半导体(7), 半导体概念(7), 国产芯片(7) |
+| 10 | [[025499] 东方阿尔法科技智选混合发起A](http://fund.eastmoney.com/025499.html) | 4 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 电子元件(1) | 半导体概念(9), 百元股(8), 半导体(8) |
 
 ---
 
 ## 涨幅 > 5% 普涨股
 
-**涉及股票 (321):** N科马, 凯德石英, 华康洁净, 福赛科技, 美埃科技, 恒辉安防, 电科院, 天岳先进, 金太阳, 甬矽电子, 德恩精工, 西高院, 宇邦新材, 佰维存储, 汇成股份, 新风光, 沪宁股份, 侨源股份, 恒工精密, 精测电子... (Total 321)
+**涉及股票 (321):** [N科马](http://quote.eastmoney.com/sh920086.html)(+371.27%), [凯德石英](http://quote.eastmoney.com/sh920179.html)(+20.28%), [华康洁净](http://quote.eastmoney.com/sz301235.html)(+20.01%), [福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%), [美埃科技](http://quote.eastmoney.com/sh688376.html)(+20.0%), [恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%), [电科院](http://quote.eastmoney.com/sz300215.html)(+20.0%), [天岳先进](http://quote.eastmoney.com/sh688234.html)(+20.0%), [金太阳](http://quote.eastmoney.com/sz300606.html)(+20.0%), [甬矽电子](http://quote.eastmoney.com/sh688362.html)(+20.0%), [德恩精工](http://quote.eastmoney.com/sz300780.html)(+19.98%), [西高院](http://quote.eastmoney.com/sh688334.html)(+19.5%), [宇邦新材](http://quote.eastmoney.com/sz301266.html)(+17.2%), [佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%), [汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%), [新风光](http://quote.eastmoney.com/sh688663.html)(+15.55%), [沪宁股份](http://quote.eastmoney.com/sz300669.html)(+15.5%), [侨源股份](http://quote.eastmoney.com/sz301286.html)(+15.47%), [恒工精密](http://quote.eastmoney.com/sz301261.html)(+14.61%), [精测电子](http://quote.eastmoney.com/sz300567.html)(+14.2%)... (共 321 只)
 
 ### 匹配基金 Top 10
 
 | 排名 | 基金 | 命中数 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
-|---|---|---|---|---|---|
-| 1 | [024647] 中欧制造升级混合发起A | 5 | 宁波华翔, 恒帅股份, 新泉股份, 凯迪股份, 长盈精密 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 2 | [024648] 中欧制造升级混合发起C | 5 | 宁波华翔, 恒帅股份, 新泉股份, 凯迪股份, 长盈精密 | 汽车零部件(5), (3), 消费电子(1) | 新能源车(6), 汽车零部件(5), 中证500(4) |
-| 3 | [017993] 方正富邦远见成长混合A | 5 | 震裕科技, 浙江荣泰, 三花智控, 新泉股份, 安培龙 | 汽车零部件(3), (2), 非金属材料(1) | 新能源车(6), 机器人概念(6), 人形机器人(6) |
-| 4 | [017994] 方正富邦远见成长混合C | 5 | 震裕科技, 浙江荣泰, 三花智控, 新泉股份, 安培龙 | 汽车零部件(3), (2), 非金属材料(1) | 新能源车(6), 机器人概念(6), 人形机器人(6) |
-| 5 | [024808] 华夏成长动力混合A | 5 | 三花智控, 新泉股份, 恒立液压, 峰岹科技, 五洲新春 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 6 | [024809] 华夏成长动力混合C | 5 | 三花智控, 新泉股份, 恒立液压, 峰岹科技, 五洲新春 | 半导体(2), 汽车零部件(2), 工程机械(1) | 机器人概念(5), 新能源车(5), 特斯拉(4) |
-| 7 | [024889] 信澳优势行业混合C | 4 | 宁波华翔, 江波龙, 宏和科技, 德明利 | (4), 电子元件(2), 互联网服务(1) | 创业板综(4), 专精特新(4), PCB(3) |
-| 8 | [040025] 华安科技动力混合A | 4 | 兆易创新, 芯源微, 聚辰股份, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 9 | [040025] 华安科技动力混合A | 4 | 兆易创新, 芯源微, 聚辰股份, 圣晖集成 | 半导体(4), (4), 电池(1) | 百元股(5), 半导体概念(5), 半导体(4) |
-| 10 | [000029] 富国宏观策略灵活配置混合A | 3 | 佰维存储, 兆易创新, 唯万密封 | 半导体(3), 证券(2), 电网设备(1) | 上证180_(5), 百元股(4), 标准普尔(4) |
+|:---:|---|:---:|---|---|---|
+| 1 | [[018124] 永赢先进制造智选混合发起A](http://fund.eastmoney.com/018124.html) | 14 | [五洲新春](http://quote.eastmoney.com/sh603667.html)(+10.0%)<br>[新泉股份](http://quote.eastmoney.com/sh603179.html)(+10.0%)<br>[新坐标](http://quote.eastmoney.com/sh603040.html)(+5.81%)<br>[信质集团](http://quote.eastmoney.com/sz002664.html)(+10.0%)<br>[浙江荣泰](http://quote.eastmoney.com/sh603119.html)(+7.23%)<br>[福达股份](http://quote.eastmoney.com/sh603166.html)(+5.13%)<br>[凯迪股份](http://quote.eastmoney.com/sh605288.html)(+5.04%)<br>[模塑科技](http://quote.eastmoney.com/sz000700.html)(+5.33%)<br>[震裕科技](http://quote.eastmoney.com/sz300953.html)(+10.13%)<br>[福赛科技](http://quote.eastmoney.com/sz301529.html)(+20.0%)<br>[安培龙](http://quote.eastmoney.com/sz301413.html)(+5.73%)<br>[宁波华翔](http://quote.eastmoney.com/sz002048.html)(+10.01%)<br>[步科股份](http://quote.eastmoney.com/sh688160.html)(+7.12%)<br>[恒帅股份](http://quote.eastmoney.com/sz300969.html)(+10.64%) | 汽车零部件(14), (7), 专用设备(5) | 新能源车(26), 人形机器人(22), 机器人概念(20) |
+| 2 | [[016530] 鹏华碳中和主题混合A](http://fund.eastmoney.com/016530.html) | 10 | [五洲新春](http://quote.eastmoney.com/sh603667.html)(+10.0%)<br>[金沃股份](http://quote.eastmoney.com/sz300984.html)(+8.9%)<br>[浙江荣泰](http://quote.eastmoney.com/sh603119.html)(+7.23%)<br>[美利信](http://quote.eastmoney.com/sz301307.html)(+9.75%)<br>[恒勃股份](http://quote.eastmoney.com/sz301225.html)(+6.82%)<br>[震裕科技](http://quote.eastmoney.com/sz300953.html)(+10.13%)<br>[安培龙](http://quote.eastmoney.com/sz301413.html)(+5.73%)<br>[绿的谐波](http://quote.eastmoney.com/sh688017.html)(+9.77%)<br>[步科股份](http://quote.eastmoney.com/sh688160.html)(+7.12%)<br>[恒工精密](http://quote.eastmoney.com/sz301261.html)(+14.61%) | 汽车零部件(11), 通用设备(6), (5) | 人形机器人(19), 专精特新(18), 新能源车(18) |
+| 3 | [[025499] 东方阿尔法科技智选混合发起A](http://fund.eastmoney.com/025499.html) | 9 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[北京君正](http://quote.eastmoney.com/sz300223.html)(+5.43%)<br>[香农芯创](http://quote.eastmoney.com/sz300475.html)(+5.12%)<br>[晶合集成](http://quote.eastmoney.com/sh688249.html)(+7.98%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[普冉股份](http://quote.eastmoney.com/sh688766.html)(+5.91%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 电子元件(1) | 半导体概念(9), 百元股(8), 半导体(8) |
+| 4 | [[025500] 东方阿尔法科技智选混合发起C](http://fund.eastmoney.com/025500.html) | 9 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[北京君正](http://quote.eastmoney.com/sz300223.html)(+5.43%)<br>[香农芯创](http://quote.eastmoney.com/sz300475.html)(+5.12%)<br>[晶合集成](http://quote.eastmoney.com/sh688249.html)(+7.98%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[普冉股份](http://quote.eastmoney.com/sh688766.html)(+5.91%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 电子元件(1) | 半导体概念(9), 百元股(8), 半导体(8) |
+| 5 | [[016071] 华安智联混合(LOF)C](http://fund.eastmoney.com/016071.html) | 8 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%)<br>[华虹公司](http://quote.eastmoney.com/sh688347.html)(+6.87%)<br>[晶合集成](http://quote.eastmoney.com/sh688249.html)(+7.98%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 消费电子(1) | 半导体(8), 半导体概念(8), 百元股(6) |
+| 6 | [[025208] 永赢先锋半导体智选混合发起A](http://fund.eastmoney.com/025208.html) | 8 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[香农芯创](http://quote.eastmoney.com/sz300475.html)(+5.12%)<br>[开普云](http://quote.eastmoney.com/sh688228.html)(+8.76%)<br>[澜起科技](http://quote.eastmoney.com/sh688008.html)(+5.47%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(6), (1), 电子元件(1) | 存储芯片(8), 国产芯片(7), 百元股(7) |
+| 7 | [[025209] 永赢先锋半导体智选混合发起C](http://fund.eastmoney.com/025209.html) | 8 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[香农芯创](http://quote.eastmoney.com/sz300475.html)(+5.12%)<br>[开普云](http://quote.eastmoney.com/sh688228.html)(+8.76%)<br>[澜起科技](http://quote.eastmoney.com/sh688008.html)(+5.47%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(6), (1), 电子元件(1) | 存储芯片(8), 国产芯片(7), 百元股(7) |
+| 8 | [[501073] 华安智联混合(LOF)A](http://fund.eastmoney.com/501073.html) | 8 | [兆易创新](http://quote.eastmoney.com/sh603986.html)(+10.0%)<br>[聚辰股份](http://quote.eastmoney.com/sh688123.html)(+8.01%)<br>[汇成股份](http://quote.eastmoney.com/sh688403.html)(+17.12%)<br>[华虹公司](http://quote.eastmoney.com/sh688347.html)(+6.87%)<br>[晶合集成](http://quote.eastmoney.com/sh688249.html)(+7.98%)<br>[江波龙](http://quote.eastmoney.com/sz301308.html)(+13.48%)<br>[德明利](http://quote.eastmoney.com/sz001309.html)(+7.48%)<br>[佰维存储](http://quote.eastmoney.com/sh688525.html)(+17.19%) | 半导体(8), (1), 消费电子(1) | 半导体(8), 半导体概念(8), 百元股(6) |
+| 9 | [[000976] 长城新兴产业混合A](http://fund.eastmoney.com/000976.html) | 7 | [长盈精密](http://quote.eastmoney.com/sz300115.html)(+5.12%)<br>[恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%)<br>[浙江荣泰](http://quote.eastmoney.com/sh603119.html)(+7.23%)<br>[恒勃股份](http://quote.eastmoney.com/sz301225.html)(+6.82%)<br>[模塑科技](http://quote.eastmoney.com/sz000700.html)(+5.33%)<br>[恒立液压](http://quote.eastmoney.com/sh601100.html)(+5.47%)<br>[力星股份](http://quote.eastmoney.com/sz300421.html)(+7.05%) | 消费电子(2), 电子元件(2), 汽车零部件(1) | 创业板综(5), 机器人概念(5), 人形机器人(4) |
+| 10 | [[019412] 长城新兴产业混合C](http://fund.eastmoney.com/019412.html) | 7 | [长盈精密](http://quote.eastmoney.com/sz300115.html)(+5.12%)<br>[恒辉安防](http://quote.eastmoney.com/sz300952.html)(+20.0%)<br>[浙江荣泰](http://quote.eastmoney.com/sh603119.html)(+7.23%)<br>[恒勃股份](http://quote.eastmoney.com/sz301225.html)(+6.82%)<br>[模塑科技](http://quote.eastmoney.com/sz000700.html)(+5.33%)<br>[恒立液压](http://quote.eastmoney.com/sh601100.html)(+5.47%)<br>[力星股份](http://quote.eastmoney.com/sz300421.html)(+7.05%) | 消费电子(2), 电子元件(2), 汽车零部件(1) | 创业板综(5), 机器人概念(5), 人形机器人(4) |
 
 ---
 
