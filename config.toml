@@ -1,0 +1,54 @@
+baseurl = "https://invest.coderli.com/"
+title = "投资实验室"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+theme = "mainroad"
+disqusShortname = ""
+googleAnalytics = ""
+
+[pagination]
+  pagerSize = 10
+
+[[menu.main]]
+  name = "首页"
+  weight = 10
+  url = "/"
+[[menu.main]]
+  name = "文章"
+  weight = 20
+  url = "/post/"
+[[menu.main]]
+  name = "关于"
+  weight = 30
+  url = "/about/"
+
+[Params]
+  dateformat = "2006-01-02 15:04"
+  description = "记录投资思考与实践"
+  opengraph = true
+  twitter_cards = false
+  readmore = false
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"]
+  mainSections = ["post", "docs"]
+
+[Params.author]
+  name = "OneInvester"
+  bio = "探索投资的奥秘，分享有价值的思考。"
+  avatar = "img/avatar.png"
+
+[Params.logo]
+  subtitle = "Invest Lab"
+
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = false
