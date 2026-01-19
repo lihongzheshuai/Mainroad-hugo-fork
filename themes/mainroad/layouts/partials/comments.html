@@ -1,11 +1,18 @@
 {{- $server := "" }}
 {{- if ge (int (index (split hugo.Version ".") 1)) "120" }}
-	{{- $server = hugo.IsServer }}
+{{- $server = hugo.IsServer }}
 {{- else }}
-	{{- $server = .Site.IsServer }}
+{{- $server = .Site.IsServer }}
 {{- end }}
 {{- if and .Site.Config.Services.Disqus.Shortname (index .Params "comments" | default "true") (not $server) }}
 <section class="comments">
 	{{ template "_internal/disqus.html" . }}
 </section>
 {{- end }}
+<section class="comments">
+	<script src="https://giscus.app/client.js" data-repo="lihongzheshuai/Mainroad-hugo-fork" data-repo-id="R_kgDOQ6dMhg"
+		data-category="Announcements" data-category-id="DIC_kwDOQ6dMhs4C1Is8" data-mapping="pathname" data-strict="0"
+		data-reactions-enabled="1" data-emit-metadata="0" data-input-position="bottom"
+		data-theme="preferred_color_scheme" data-lang="zh-CN" crossorigin="anonymous" async>
+		</script>
+</section>
