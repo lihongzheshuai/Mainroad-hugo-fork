@@ -1,6 +1,6 @@
 ---
 title: "盘后复盘: 强势股和重仓基金反查 (2026-02-13)"
-date: 2026-02-13T16:17:47+08:00
+date: 2026-02-13T16:38:57+08:00
 draft: false
 categories:
   - 复盘
@@ -437,12 +437,12 @@ tags:
 
 | 排名 | 基金 | 命中数 | 数据季度 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
 |:---:|---|:---:|:---:|---|---|---|
-| 1 | [[007490] 南方信息创新混合A](http://fund.eastmoney.com/007490.html) | 3 | 2025年4季度 | [富创精密](http://quote.eastmoney.com/sh688409.html)(+11.11%)<br>[精测电子](http://quote.eastmoney.com/sz300567.html)(+6.45%)<br>[先导基电](http://quote.eastmoney.com/sh600641.html)(+5.81%) | 半导体(7), (1), 仪器仪表(1) | 半导体概念(8), 半导体(7), 中芯概念(6) |
-| 2 | [[007491] 南方信息创新混合C](http://fund.eastmoney.com/007491.html) | 3 | 2025年4季度 | [富创精密](http://quote.eastmoney.com/sh688409.html)(+11.11%)<br>[精测电子](http://quote.eastmoney.com/sz300567.html)(+6.45%)<br>[先导基电](http://quote.eastmoney.com/sh600641.html)(+5.81%) | 半导体(7), (1), 仪器仪表(1) | 半导体概念(8), 半导体(7), 中芯概念(6) |
+| 1 | [[007490] 南方信息创新混合A](http://fund.eastmoney.com/007490.html) | 3 | 2025年4季度 | [先导基电](http://quote.eastmoney.com/sh600641.html)(+5.81%)<br>[富创精密](http://quote.eastmoney.com/sh688409.html)(+11.11%)<br>[精测电子](http://quote.eastmoney.com/sz300567.html)(+6.45%) | 半导体(7), (1), 仪器仪表(1) | 半导体概念(8), 半导体(7), 中芯概念(6) |
+| 2 | [[007491] 南方信息创新混合C](http://fund.eastmoney.com/007491.html) | 3 | 2025年4季度 | [先导基电](http://quote.eastmoney.com/sh600641.html)(+5.81%)<br>[富创精密](http://quote.eastmoney.com/sh688409.html)(+11.11%)<br>[精测电子](http://quote.eastmoney.com/sz300567.html)(+6.45%) | 半导体(7), (1), 仪器仪表(1) | 半导体概念(8), 半导体(7), 中芯概念(6) |
 | 3 | [[018184] 万家先进制造混合发起式A](http://fund.eastmoney.com/018184.html) | 3 | 2025年4季度 | [亚星锚链](http://quote.eastmoney.com/sh601890.html)(+10.04%)<br>[海兰信](http://quote.eastmoney.com/sz300065.html)(+6.9%)<br>[航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%) | 船舶制造(3), 航天航空(2), 软件开发(1) | 军工(8), 专精特新(6), 央国企改革(4) |
 | 4 | [[018185] 万家先进制造混合发起式C](http://fund.eastmoney.com/018185.html) | 3 | 2025年4季度 | [亚星锚链](http://quote.eastmoney.com/sh601890.html)(+10.04%)<br>[海兰信](http://quote.eastmoney.com/sz300065.html)(+6.9%)<br>[航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%) | 船舶制造(3), 航天航空(2), 软件开发(1) | 军工(8), 专精特新(6), 央国企改革(4) |
-| 5 | [[002819] 招商丰美混合A](http://fund.eastmoney.com/002819.html) | 3 | 2025年4季度 | [航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%)<br>[航发控制](http://quote.eastmoney.com/sz000738.html)(+7.44%)<br>[航发动力](http://quote.eastmoney.com/sh600893.html)(+10.01%) | 航天航空(3), 半导体(1), 通信设备(1) | 军工(8), 大飞机(6), 中证500(5) |
-| 6 | [[002820] 招商丰美混合C](http://fund.eastmoney.com/002820.html) | 3 | 2025年4季度 | [航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%)<br>[航发控制](http://quote.eastmoney.com/sz000738.html)(+7.44%)<br>[航发动力](http://quote.eastmoney.com/sh600893.html)(+10.01%) | 航天航空(3), 半导体(1), 通信设备(1) | 军工(8), 大飞机(6), 中证500(5) |
+| 5 | [[002819] 招商丰美混合A](http://fund.eastmoney.com/002819.html) | 3 | 2025年4季度 | [航发动力](http://quote.eastmoney.com/sh600893.html)(+10.01%)<br>[航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%)<br>[航发控制](http://quote.eastmoney.com/sz000738.html)(+7.44%) | 航天航空(3), 半导体(1), 通信设备(1) | 军工(8), 大飞机(6), 中证500(5) |
+| 6 | [[002820] 招商丰美混合C](http://fund.eastmoney.com/002820.html) | 3 | 2025年4季度 | [航发动力](http://quote.eastmoney.com/sh600893.html)(+10.01%)<br>[航亚科技](http://quote.eastmoney.com/sh688510.html)(+7.19%)<br>[航发控制](http://quote.eastmoney.com/sz000738.html)(+7.44%) | 航天航空(3), 半导体(1), 通信设备(1) | 军工(8), 大飞机(6), 中证500(5) |
 | 7 | [[516620] 国泰中证影视主题ETF](http://fund.eastmoney.com/516620.html) | 2 | 2025年4季度 | [中国电影](http://quote.eastmoney.com/sh600977.html)(+5.34%)<br>[光线传媒](http://quote.eastmoney.com/sz300251.html)(+15.39%) | 文化传媒(7), (3) | 文化传媒(7), 影视概念(7), 网红经济(5) |
 | 8 | [[159855] 银华中证影视主题ETF](http://fund.eastmoney.com/159855.html) | 2 | 2025年4季度 | [中国电影](http://quote.eastmoney.com/sh600977.html)(+5.34%)<br>[光线传媒](http://quote.eastmoney.com/sz300251.html)(+15.39%) | 文化传媒(7), (3) | 文化传媒(7), 影视概念(7), 网红经济(5) |
 | 9 | [[004833] 先锋聚利混合A](http://fund.eastmoney.com/004833.html) | 2 | 2025年4季度 | [富创精密](http://quote.eastmoney.com/sh688409.html)(+11.11%)<br>[盛科通信](http://quote.eastmoney.com/sh688702.html)(+11.42%) | 半导体(4), (2), 非金属材料(1) | 专精特新(6), 半导体概念(6), 半导体(4) |
