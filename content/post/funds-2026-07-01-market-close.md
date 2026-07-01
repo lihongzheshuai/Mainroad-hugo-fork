@@ -1,6 +1,6 @@
 ---
 title: "盘后复盘: 强势股和重仓基金反查 (2026-07-01)"
-date: 2026-07-01T19:54:36+08:00
+date: 2026-07-01T20:00:58+08:00
 draft: false
 categories:
   - 复盘
@@ -10,7 +10,7 @@ tags:
   - 盘后
 ---
 
-> 本报告基于 2026年2季度 基金持仓数据与今日实时行情自动生成。
+> 本报告基于 2026年1季度 基金持仓数据与今日实时行情自动生成。
 >
 > **免责声明**: 本报告仅供参考，数据来源于网络公开信息，程序自动生成，不保证准确性。内容不构成任何投资建议，投资有风险，入市需谨慎。
 >
@@ -44,6 +44,16 @@ tags:
 
 | 排名 | 基金 | 命中数 | 数据季度 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
 |:---:|---|:---:|:---:|---|---|---|
+| 1 | [[013072] 泰信医疗服务混合发起式A](http://fund.eastmoney.com/013072.html) | 5 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[福瑞医科](http://quote.eastmoney.com/300049.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[益方生物](http://quote.eastmoney.com/688382.html) | 制造业(4), 医药制造业(4), 化学制药(2) | 家庭医生(1) |
+| 2 | [[013073] 泰信医疗服务混合发起式C](http://fund.eastmoney.com/013073.html) | 5 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[福瑞医科](http://quote.eastmoney.com/300049.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[益方生物](http://quote.eastmoney.com/688382.html) | 制造业(4), 医药制造业(4), 化学制药(2) | 家庭医生(1) |
+| 3 | [[000878] 中海医药健康产业精选混合A](http://fund.eastmoney.com/000878.html) | 4 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[前沿生物](http://quote.eastmoney.com/688221.html)<br>[三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html) | 医药制造业(6), 制造业(1), 研究和试验发展(1) | 无 |
+| 4 | [[000879] 中海医药健康产业精选混合C](http://fund.eastmoney.com/000879.html) | 4 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[前沿生物](http://quote.eastmoney.com/688221.html)<br>[三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html) | 医药制造业(6), 制造业(1), 研究和试验发展(1) | 无 |
+| 5 | [[002938] 中银证券健康产业混合](http://fund.eastmoney.com/002938.html) | 4 | 2026年1季度 | [百奥赛图](http://quote.eastmoney.com/688796.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[苑东生物](http://quote.eastmoney.com/688513.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html) | 医药制造业(5), 化学制药(3), 制造业(1) | 无 |
+| 6 | [[004040] 金鹰医疗健康产业A](http://fund.eastmoney.com/004040.html) | 4 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[汇宇制药](http://quote.eastmoney.com/688553.html) | 制造业(5), 医药制造业(3), 化学制药(2) | 天津自贸区(1), 血氧仪(1) |
+| 7 | [[004041] 金鹰医疗健康产业C](http://fund.eastmoney.com/004041.html) | 4 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[汇宇制药](http://quote.eastmoney.com/688553.html) | 制造业(5), 医药制造业(3), 化学制药(2) | 天津自贸区(1), 血氧仪(1) |
+| 8 | [[004905] 华泰柏瑞生物医药混合A](http://fund.eastmoney.com/004905.html) | 4 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[艾力斯](http://quote.eastmoney.com/688578.html)<br>[新诺威](http://quote.eastmoney.com/300765.html) | 制造业(3), 医药制造业(2), 化学制药(2) | 无 |
+| 9 | [[005689] 中银医疗保健混合A](http://fund.eastmoney.com/005689.html) | 4 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html) | 制造业(4), 医药制造业(4), 化学制药(2) | 无 |
+| 10 | [[007481] 华夏逸享健康混合A](http://fund.eastmoney.com/007481.html) | 4 | 2026年1季度 | [海思科](http://quote.eastmoney.com/002653.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html) | 制造业(3), 医药制造业(2), 研究和试验发展(1) | 无 |
 
 ---
 
@@ -75,6 +85,16 @@ tags:
 
 | 排名 | 基金 | 命中数 | 数据季度 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
 |:---:|---|:---:|:---:|---|---|---|
+| 1 | [[002938] 中银证券健康产业混合](http://fund.eastmoney.com/002938.html) | 7 | 2026年1季度 | [迈威生物](http://quote.eastmoney.com/688062.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[苑东生物](http://quote.eastmoney.com/688513.html)<br>... | 医药制造业(5), 化学制药(3), 制造业(1) | 无 |
+| 2 | [[010585] 创金合信医药消费股票A](http://fund.eastmoney.com/010585.html) | 7 | 2026年1季度 | [科伦药业](http://quote.eastmoney.com/002422.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>... | 制造业(3), 医药制造业(3), 科研服务(1) | 预制菜(1) |
+| 3 | [[010586] 创金合信医药消费股票C](http://fund.eastmoney.com/010586.html) | 7 | 2026年1季度 | [科伦药业](http://quote.eastmoney.com/002422.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>... | 制造业(3), 医药制造业(3), 科研服务(1) | 预制菜(1) |
+| 4 | [[022852] 中航优选领航混合发起A](http://fund.eastmoney.com/022852.html) | 7 | 2026年1季度 | [迈威生物](http://quote.eastmoney.com/688062.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[微芯生物](http://quote.eastmoney.com/688321.html)<br>... | 医药制造业(7), 化学制药(3) | 无 |
+| 5 | [[022853] 中航优选领航混合发起C](http://fund.eastmoney.com/022853.html) | 7 | 2026年1季度 | [迈威生物](http://quote.eastmoney.com/688062.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[微芯生物](http://quote.eastmoney.com/688321.html)<br>... | 医药制造业(7), 化学制药(3) | 无 |
+| 6 | [[000684] 长盛养老健康混合A](http://fund.eastmoney.com/000684.html) | 6 | 2026年1季度 | [迪哲医药](http://quote.eastmoney.com/688192.html)<br>[百利天恒](http://quote.eastmoney.com/688506.html)<br>[苑东生物](http://quote.eastmoney.com/688513.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html)<br>... | 医药制造业(5), 制造业(2), 化学制药(2) | 无 |
+| 7 | [[005689] 中银医疗保健混合A](http://fund.eastmoney.com/005689.html) | 6 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[科伦药业](http://quote.eastmoney.com/002422.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>... | 制造业(4), 医药制造业(4), 化学制药(2) | 无 |
+| 8 | [[007861] 金元顺安医疗健康混合A](http://fund.eastmoney.com/007861.html) | 6 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[科伦药业](http://quote.eastmoney.com/002422.html)<br>[百利天恒](http://quote.eastmoney.com/688506.html)<br>[艾力斯](http://quote.eastmoney.com/688578.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>... | 医药制造业(5), 化学制药(2), 制造业(1) | 无 |
+| 9 | [[007862] 金元顺安医疗健康混合C](http://fund.eastmoney.com/007862.html) | 6 | 2026年1季度 | [三生国健](http://quote.eastmoney.com/688336.html)<br>[科伦药业](http://quote.eastmoney.com/002422.html)<br>[百利天恒](http://quote.eastmoney.com/688506.html)<br>[艾力斯](http://quote.eastmoney.com/688578.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>... | 医药制造业(5), 化学制药(2), 制造业(1) | 无 |
+| 10 | [[010090] 中信建投医药健康A](http://fund.eastmoney.com/010090.html) | 6 | 2026年1季度 | [泽璟制药](http://quote.eastmoney.com/688266.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[三生国健](http://quote.eastmoney.com/688336.html)<br>[百利天恒](http://quote.eastmoney.com/688506.html)<br>... | 医药制造业(5), 制造业(2), 化学制药(2) | 无 |
 
 ---
 
@@ -106,6 +126,16 @@ tags:
 
 | 排名 | 基金 | 命中数 | 数据季度 | 命中股票 | 重仓行业 (Top3) | 重仓概念 (Top3) |
 |:---:|---|:---:|:---:|---|---|---|
+| 1 | [[002938] 中银证券健康产业混合](http://fund.eastmoney.com/002938.html) | 10 | 2026年1季度 | [迈威生物](http://quote.eastmoney.com/688062.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html)<br>[益方生物](http://quote.eastmoney.com/688382.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[苑东生物](http://quote.eastmoney.com/688513.html)<br>... | 医药制造业(5), 化学制药(3), 制造业(1) | 无 |
+| 2 | [[004702] 南方金融主题灵活配置混合A](http://fund.eastmoney.com/004702.html) | 9 | 2026年1季度 | [同花顺](http://quote.eastmoney.com/300033.html)<br>[中国人寿](http://quote.eastmoney.com/601628.html)<br>[财富趋势](http://quote.eastmoney.com/688318.html)<br>[东方财富](http://quote.eastmoney.com/300059.html)<br>[指南针](http://quote.eastmoney.com/300803.html)<br>... | IT服务(6), 金融业(4), 多元金融(3) | 多元金融(2), 互联网保险(2), 信托概念(1) |
+| 3 | [[013500] 南方金融主题灵活配置混合C](http://fund.eastmoney.com/013500.html) | 9 | 2026年1季度 | [同花顺](http://quote.eastmoney.com/300033.html)<br>[中国人寿](http://quote.eastmoney.com/601628.html)<br>[财富趋势](http://quote.eastmoney.com/688318.html)<br>[东方财富](http://quote.eastmoney.com/300059.html)<br>[指南针](http://quote.eastmoney.com/300803.html)<br>... | IT服务(6), 金融业(4), 多元金融(3) | 多元金融(2), 互联网保险(2), 信托概念(1) |
+| 4 | [[019020] 易方达医疗保健行业混合C](http://fund.eastmoney.com/019020.html) | 9 | 2026年1季度 | [信立泰](http://quote.eastmoney.com/002294.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[昭衍新药](http://quote.eastmoney.com/603127.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html)<br>[荣昌生物](http://quote.eastmoney.com/688331.html)<br>... | 制造业(4), 医药制造业(4), 研究和试验发展(1) | 青蒿素(1) |
+| 5 | [[022852] 中航优选领航混合发起A](http://fund.eastmoney.com/022852.html) | 9 | 2026年1季度 | [荣昌生物](http://quote.eastmoney.com/688331.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>[热景生物](http://quote.eastmoney.com/688068.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>... | 医药制造业(7), 化学制药(3) | 无 |
+| 6 | [[022853] 中航优选领航混合发起C](http://fund.eastmoney.com/022853.html) | 9 | 2026年1季度 | [荣昌生物](http://quote.eastmoney.com/688331.html)<br>[迈威生物](http://quote.eastmoney.com/688062.html)<br>[热景生物](http://quote.eastmoney.com/688068.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[泽璟制药](http://quote.eastmoney.com/688266.html)<br>... | 医药制造业(7), 化学制药(3) | 无 |
+| 7 | [[110023] 易方达医疗保健行业混合A](http://fund.eastmoney.com/110023.html) | 9 | 2026年1季度 | [信立泰](http://quote.eastmoney.com/002294.html)<br>[海思科](http://quote.eastmoney.com/002653.html)<br>[昭衍新药](http://quote.eastmoney.com/603127.html)<br>[百奥赛图](http://quote.eastmoney.com/688796.html)<br>[荣昌生物](http://quote.eastmoney.com/688331.html)<br>... | 制造业(4), 医药制造业(4), 研究和试验发展(1) | 青蒿素(1) |
+| 8 | [[000684] 长盛养老健康混合A](http://fund.eastmoney.com/000684.html) | 8 | 2026年1季度 | [荣昌生物](http://quote.eastmoney.com/688331.html)<br>[信立泰](http://quote.eastmoney.com/002294.html)<br>[迪哲医药](http://quote.eastmoney.com/688192.html)<br>[百利天恒](http://quote.eastmoney.com/688506.html)<br>[苑东生物](http://quote.eastmoney.com/688513.html)<br>... | 医药制造业(5), 制造业(2), 化学制药(2) | 无 |
+| 9 | [[000945] 华夏医疗健康混合A](http://fund.eastmoney.com/000945.html) | 8 | 2026年1季度 | [荣昌生物](http://quote.eastmoney.com/688331.html)<br>[信立泰](http://quote.eastmoney.com/002294.html)<br>[科伦药业](http://quote.eastmoney.com/002422.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[华东医药](http://quote.eastmoney.com/000963.html)<br>... | 制造业(4), 医药制造业(2), 研究和试验发展(2) | 无 |
+| 10 | [[000946] 华夏医疗健康混合C](http://fund.eastmoney.com/000946.html) | 8 | 2026年1季度 | [荣昌生物](http://quote.eastmoney.com/688331.html)<br>[信立泰](http://quote.eastmoney.com/002294.html)<br>[科伦药业](http://quote.eastmoney.com/002422.html)<br>[新诺威](http://quote.eastmoney.com/300765.html)<br>[华东医药](http://quote.eastmoney.com/000963.html)<br>... | 制造业(4), 医药制造业(2), 研究和试验发展(2) | 无 |
 
 ---
 
